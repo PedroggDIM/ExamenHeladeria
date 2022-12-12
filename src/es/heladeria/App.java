@@ -28,7 +28,7 @@ public class App {
 		System.out.println(heladoDefault.getIngredienteBase());
 		System.out.println(heladoDefault.getIngredienteBase().getPrecio());
 
-		System.out.println("-----------------------");
+		System.out.println("---------------------");
 
 //		  System.out.println(heladoDefault.addComplemento(Complemento.EXTRAS.get(0)));
 //        System.out.println(heladoDefault.addComplemento(Complemento.EXTRAS.get(0))); 
